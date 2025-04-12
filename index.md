@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+#猪毛: Welcome to Naki blog
 ---
 
